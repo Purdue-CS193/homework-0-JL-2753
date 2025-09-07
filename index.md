@@ -7,16 +7,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Jonathan Li's First CS193 Homework
+
+- teachs important skills
+- only one lecture per week
 
 ```markdown
 Syntax highlighted code block
 
-# Jonathan Li's First CS193 Homework
+# Headers 1
+# Headers 2
 
 - Bulleted
 - List
-- teachs important skills
-- only one lecture per week
 
 1. Numbered
 2. List
